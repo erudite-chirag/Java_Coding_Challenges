@@ -1,4 +1,4 @@
-package Java_Assignments.Day_1;
+package Day_1;
 import java.util.*;
 public class BubbleSort {
     public static void bubbleSort(int[] arr) {
